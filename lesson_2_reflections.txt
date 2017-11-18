@@ -2,3 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 Creates a .git directory
 It starts the version control
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Permits not to track changes on certain files
+
