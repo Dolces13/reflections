@@ -4,3 +4,14 @@ when you work with other persons or from different places/computers
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 To have a working version with no bug on remote repository
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork is a notion only existing on github. It represents a clone of a repository at a given time that user can modify without modifying the original
+clone is a copy of a repository
+branch contains a version of the repository with his commits history
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Compare locally and modify locally
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+with other tools like svn
+
