@@ -15,3 +15,5 @@ Compare locally and modify locally
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 with other tools like svn
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+permits to discuss the changes and each user knows what changes have been made
